@@ -18,5 +18,7 @@ package main
 // ---------------------------------------------------------
 
 func main() {
-	// ?
+	// hello
 }
+// Error: # command-line-arguments
+//./main.go:21:2: undefined: hello
