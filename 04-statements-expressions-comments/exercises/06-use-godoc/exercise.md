@@ -6,3 +6,5 @@
 ## HINT
 
 You should use correct `go doc` tools
+
+go doc -src runtime NumCPU
