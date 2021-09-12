@@ -6,6 +6,8 @@
 // In-person training  : https://www.linkedin.com/in/inancgumus/
 // Follow me on twitter: https://twitter.com/inancgumus
 
+package main
+
 // ---------------------------------------------------------
 // EXERCISE: Print names
 //
@@ -20,14 +22,7 @@
 //  Use `go run` first.
 //  And after that use `go build` and run your program.
 // ---------------------------------------------------------
-package main
-
 import "fmt"
-
-// go run main.go
-
-// go build
-// ./solution
 
 func main() {
 	fmt.Println("Mike")
